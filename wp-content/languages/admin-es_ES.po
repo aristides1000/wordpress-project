@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.1.x - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-02-08 19:45:52+0000\n"
+"PO-Revision-Date: 2019-02-22 09:38:30+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -85,7 +85,7 @@ msgstr "Salud del sitio"
 
 #: wp-admin/about.php:44
 msgid "You&#8217;ve successfully upgraded to WordPress 5.1! Following WordPress 5.0&#8212;a major release which introduced the new block editor&#8212;5.1 focuses on polish, in particular by improving overall performance of the editor. In addition, this release paves the way for a better, faster, and more secure WordPress with some essential tools for site administrators and developers."
-msgstr "¡Has actualizado correctamente a WordPress 5.1! Después de WordPress 5.0&#8212; una gran versión que introdujo el nuevo editor de bloques&#8212;5.1  se centra en pulir, en concreto mejorando el rendimiento global del editor. Además, esta versión asienta el camino para un WordPress más seguro, rápido y mejor, con algunas herramientas esenciales para administradores y desarrolladores de sitios."
+msgstr "¡Has actualizado correctamente a WordPress 5.1! Después de WordPress 5.0&#8212; una gran versión que introdujo el nuevo editor de bloques&#8212;la versión 5.1  se centra en pulir, en concreto en la mejora del rendimiento global del editor. Además, esta versión asienta el camino para un WordPress más seguro, rápido y mejor, con algunas herramientas esenciales para administradores y desarrolladores de sitios."
 
 #: wp-admin/about.php:37
 msgid "A Little Better Every Day"
