@@ -1,0 +1,806 @@
+# Translation of Plugins - Contact Form &amp; SMTP Plugin for WordPress by PirateForms - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Contact Form &amp; SMTP Plugin for WordPress by PirateForms - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-01 12:56:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Contact Form &amp; SMTP Plugin for WordPress by PirateForms - Development (trunk)\n"
+
+#: gutenberg/js/block.js:50 gutenberg/js/block.build.js:116
+msgid "Loading Form"
+msgstr "Cargando formulario"
+
+#. Author URI of the plugin
+msgid "https://wpforms.com"
+msgstr "https://wpforms.com"
+
+#. Author of the plugin
+msgid "WPForms"
+msgstr "WPForms"
+
+#: includes/class-pirateforms-farewell.php:365
+msgid "Plugin was successfully activated."
+msgstr "El plugin se activó con éxito."
+
+#: includes/class-pirateforms-farewell.php:334
+msgid "Please manually activate WPForms."
+msgstr "Por favor, activa manualmente WPForms."
+
+#: includes/class-pirateforms-farewell.php:320
+msgid "Please manually activate the WPForms plugin."
+msgstr "Por favor, activa manualmente el plugin WPForms."
+
+#: includes/class-pirateforms-farewell.php:315
+msgid "Plugin was successfully installed and activated."
+msgstr "El plugin se instaló y activó con éxito."
+
+#: includes/class-pirateforms-farewell.php:261
+msgid "Please manually install WPForms Lite from WordPress.org."
+msgstr "Por favor, instala manualmente WPForms Lite desde WordPress.org."
+
+#: includes/class-pirateforms-farewell.php:197
+msgid "Read the Full Announcement"
+msgstr "Leer el anuncio completo"
+
+#: includes/class-pirateforms-farewell.php:190
+msgid "We strongly encourage all users to switch to WPForms. We’ve built an easy importer that will migrate your forms and all settings with just a few clicks."
+msgstr "Recomendamos encarecidamente a todos los usuarios que cambien a WPForms. Hemos creado un importador sencillo que migrará tus formularios y todos los ajustes con solo hacer unos pocos clics."
+
+#: includes/class-pirateforms-farewell.php:187
+msgid "We’re retiring the Pirate Forms plugin in favor of the more powerful WPForms plugin. This means that there will be no new feature updates. We will continue to maintain the Pirate Forms plugin for any major security issues for the next 6 months."
+msgstr "Estamos retirando el plugin Pirate Forms para sustituirlo por el más potente WPForms plugin. Esto quiere decir que no va a haber más actualizaciones de características. Vamos a seguir manteniendo el plugin Pirate Forms durante los próximos 6 meses por si hubiera algún problema de seguridad importante."
+
+#: includes/class-pirateforms-farewell.php:184
+msgid "We’re retiring Pirate Forms."
+msgstr "Estamos retirando Pirate Forms."
+
+#: includes/class-pirateforms-farewell.php:174
+msgid "Learn more about WPForms"
+msgstr "Aprende más acerca de WPForms"
+
+#: includes/class-pirateforms-farewell.php:167
+msgid "Migrate to WPForms"
+msgstr "Migrar a WPForms"
+
+#: includes/class-pirateforms-farewell.php:160
+msgid "WPForms allows you to create unlimited forms with a modern drag & drop form builder. You will also get access to powerful form features. Experience the WPForms difference and see why over 1 million websites use WPForms."
+msgstr "WPForms te permite crear un número ilimitado de formularios con un constructor moderno de arrastrar y soltar. También tendrás acceso a potentes funcionalidades. Experimenta la diferencia con WPForms y descubre por qué más de 1 millón de webs utilizan WPForms."
+
+#: includes/class-pirateforms-farewell.php:156
+msgid "We’re committed to providing you the best WordPress form building experience. That’s why we have made it easy for you to try WPForms for free and move your existing contact forms with just a few clicks."
+msgstr "Nos comprometemos a brindarte la mejor experiencia en la creación de formularios de WordPress. Es por eso que te hemos facilitado la posibilidad de probar WPForms de forma gratuita y mover tus formularios de contacto existentes con solo unos pocos clics."
+
+#: includes/class-pirateforms-farewell.php:153
+msgid "Switch to WPForms form builder today."
+msgstr "Cambia al maquetador de formularios WPForms hoy mismo."
+
+#: includes/class-pirateforms-farewell.php:147
+msgid "Screenshot from the WPForms Builder interface"
+msgstr "Captura de pantalla de la interfaz del maquetador de WPForms"
+
+#: includes/class-pirateforms-farewell.php:137
+msgid "Pirate Forms is now part of the WPForms Family. Switch to WPForms today and unlock more powerful features (for free)."
+msgstr "Pirate Forms ahora es parte de la familia WPForms. Cambia hoy a WPForms y desbloquea características más potentes (gratis)."
+
+#: includes/class-pirateforms-farewell.php:134
+msgid "A New, Modern Form Builder is Here!"
+msgstr "¡Un nuevo y moderno maquetador de formularios está aquí!"
+
+#: includes/class-pirateforms-farewell.php:130
+msgid "Dismiss"
+msgstr "Descartar"
+
+#: includes/class-pirateforms-farewell.php:129
+msgid "Dismiss the Try WPForms panel"
+msgstr "Descarta el panel de prueba WPForms"
+
+#: admin/partials/migration.php:86
+msgid "Start Migration"
+msgstr "Iniciar migración"
+
+#: admin/partials/migration.php:60
+msgid "We’ll migrate your forms and settings automatically. If you have custom SMTP settings, our <a href=\"%s\">WP Mail SMTP</a> plugin will also be installed."
+msgstr "Migraremos tus formularios y ajustes automáticamente. Si tienes ajustes SMTP personalizados, también se instalará nuestro plugin <a href=\"%s\">WP Mail SMTP</a>."
+
+#: admin/partials/migration.php:53
+msgid "Migrate Pirate Forms"
+msgstr "Migrar Pirate Forms"
+
+#: admin/partials/migration.php:31
+msgid "Install WPForms Lite from the WordPress.org plugin repository. It’s trusted by over 1 million websites and has a 4.9 out of 5 star rating average."
+msgstr "Instala WPForms Lite desde el repositorio de plugins de WordPress.org. Confían en él más de 1 millón de webs y tiene una puntuación media de 4.9 sobre 5 estrellas."
+
+#: admin/partials/migration.php:29
+msgid "Install & Activate WPForms"
+msgstr "Instalar y activar WPForms"
+
+#: admin/partials/migration.php:16
+msgid "There are just 2 steps. We’ll handle all of the heavy lifting behind the scenes."
+msgstr "Solo hay dos pasos. Nosotros nos encargaremos del trabajo pesado en segundo plano."
+
+#: admin/partials/migration.php:14
+msgid "Migrating to WPForms is Quick & Easy"
+msgstr "La migración a WPForms es rápida y fácil"
+
+#: admin/class-pirateforms-admin.php:198
+msgid "Install WPForms"
+msgstr "Instala WPForms"
+
+#: admin/class-pirateforms-admin.php:194
+msgid "Activate WPForms"
+msgstr "Activa WPForms"
+
+#: admin/class-pirateforms-admin.php:186
+msgid "WPForms is Ready"
+msgstr "WPForms está listo"
+
+#: admin/class-pirateforms-admin.php:140
+msgid "Migration"
+msgstr "Migración"
+
+#: includes/class-pirateforms-util.php:317
+msgid "Attachment(s)"
+msgstr "Adjunto(s)"
+
+#: admin/class-pirateforms-admin.php:1311
+msgid "Unable to delete %d entries"
+msgstr "No se han podido borrar %d entradas"
+
+#: admin/class-pirateforms-admin.php:422
+msgid "Enabling this option will save the attachment(s) otherwise attachments can only be found in the email that is received."
+msgstr "Activar esta opción hace que se guardan los adjuntos. Si no, los adjuntos solamente estarán en el correo electrónico en el que hayan sido recibidos."
+
+#: admin/class-pirateforms-admin.php:419
+msgid "Save Attachment?"
+msgstr "¿Guardar adjuntos?"
+
+#: gutenberg/class-pirateforms-gutenberg.php:192
+msgid "Default"
+msgstr "Predeterminado"
+
+#: gutenberg/class-pirateforms-gutenberg.php:80
+msgid "Use Ajax to submit form"
+msgstr "Usar envío por Ajax"
+
+#: gutenberg/class-pirateforms-gutenberg.php:79
+msgid "Select Form"
+msgstr "Seleccionar formulario"
+
+#: gutenberg/class-pirateforms-gutenberg.php:78
+msgid "Modify Settings"
+msgstr "Modificar ajustes"
+
+#: gutenberg/class-pirateforms-gutenberg.php:77
+msgid "Some forms have changed since the last time this post was saved. We have reloaded those forms. You may need to save the post again."
+msgstr "Algunos formularios han cambiado desde la última vez que se guardó esta entrada. hemos recargado esos formularios. Puede que tengas que volver a guardar la entrada."
+
+#: gutenberg/class-pirateforms-gutenberg.php:76
+msgid "Save and reload the page to see the CAPTCHA"
+msgstr "Guarda y recarga la página para ver el CAPTCHA"
+
+#: admin/class-pirateforms-admin.php:736
+msgid "You can use the following magic tags:"
+msgstr "Puedes utilizar estas etiquetas mágicas:"
+
+#: admin/class-pirateforms-admin.php:345
+msgid "If this option is not selected, we may not be able to determine whether this is a spam message."
+msgstr "Si no se marca esta opción, no podremos determinar si este mensaje es spam."
+
+#: admin/class-pirateforms-admin.php:345
+msgid "Should the IP of the customer be tracked, stored and displayed in the email content?"
+msgstr "¿Debe recogerse, almacenarse y mostrarse en el cuerpo del correo electrónico la IP del cliente?"
+
+#: admin/class-pirateforms-admin.php:342
+msgid "Track and store IP of user"
+msgstr "Recoger y almacenar la IP del usuario"
+
+#: includes/class-pirateforms-widget.php:121
+msgid "Submit form using Ajax:"
+msgstr "Enviar formulario usando Ajax:"
+
+#: admin/class-pirateforms-admin.php:827
+msgid "Please select the checkbox"
+msgstr "Marca la casilla de verificación"
+
+#: admin/class-pirateforms-admin.php:825
+msgid "Checkbox is not checked"
+msgstr "La casilla no está marcada"
+
+#: admin/class-pirateforms-admin.php:578 admin/class-pirateforms-admin.php:717
+msgid "Checkbox"
+msgstr "Casilla de verificación"
+
+#: admin/class-pirateforms-admin.php:336 admin/class-pirateforms-admin.php:356
+msgid "According to GDPR, we recommend you to ask for consent in order to store user data."
+msgstr "Según la GDPR, te aconsejamos que pidas permiso antes de almacenar los datos de los usuarios."
+
+#: admin/class-pirateforms-admin.php:325 admin/class-pirateforms-admin.php:345
+#: admin/class-pirateforms-admin.php:1166
+msgid "According to GDPR we recommend you to ask for consent in order to store user data"
+msgstr "Según la GDPR, te aconsejamos que pidas permiso antes de almacenar los datos de los usuarios."
+
+#: public/class-pirateforms-public.php:634
+msgid "Form submission failed!!"
+msgstr "¡¡Fallo al enviar el formulario!!"
+
+#: admin/class-pirateforms-admin.php:403
+msgid "Should a copy of the email be appended to the confirmation email? Only the fields that are being displayed will be sent to the sender. Please note that this will only be appended if confirmation email text is provided above."
+msgstr "¿debe adjuntarse una copia del mensaje al mensaje de confirmación? Sólo los campos que se muestran serán enviados al remitente. Ten en cuenta que sólo funcionará si se proporciona arriba un mensaje de confirmación."
+
+#: admin/class-pirateforms-admin.php:400
+msgid "Add copy of mail to confirmation email"
+msgstr "Añadir una copia del mensaje al email de confirmación"
+
+#: gutenberg/class-pirateforms-gutenberg.php:177
+msgid "Invalid %s"
+msgstr "%s no válido"
+
+#: admin/class-pirateforms-admin.php:735 admin/class-pirateforms-admin.php:1238
+msgid "Email content"
+msgstr "Contenido del correo electrónico"
+
+#: public/class-pirateforms-public.php:904
+msgid "Incorrect CAPTCHA"
+msgstr "CAPTCHA no correcto"
+
+#: public/class-pirateforms-public.php:892
+msgid "Invalid CAPTCHA"
+msgstr "CAPTCHA no válido"
+
+#: admin/class-pirateforms-admin.php:76
+msgid "Please specify the Site Key and Secret Key."
+msgstr "Por favor indica la clave del sitio y la clave secreta."
+
+#: public/class-pirateforms-public.php:1051
+msgid "Uploaded file type is not allowed for %s"
+msgstr "El tipo de archivo subido no es permitido para %s"
+
+#: public/class-pirateforms-public.php:913
+msgid "Submission blocked!"
+msgstr "¡Envío bloqueado!"
+
+#: public/class-pirateforms-public.php:614
+#: public/class-pirateforms-public.php:617
+#: includes/class-pirateforms-util.php:273
+#: includes/class-pirateforms-util.php:328
+msgid "Came from"
+msgstr "Viene de"
+
+#: public/class-pirateforms-public.php:161
+#: gutenberg/class-pirateforms-gutenberg.php:90
+msgid "I'm human!"
+msgstr "¡Soy un humano!"
+
+#: public/class-pirateforms-public.php:383
+#: includes/class-pirateforms-html.php:208
+msgid "Upload file"
+msgstr "Subir archivo"
+
+#: admin/class-pirateforms-admin.php:607
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: admin/class-pirateforms-admin.php:606
+msgid "Custom"
+msgstr "A medida"
+
+#: admin/class-pirateforms-admin.php:596
+msgid "Add a spam trap"
+msgstr "Añadir una trampa para spam"
+
+#: admin/class-pirateforms-admin.php:459
+msgid "Checking this option will verify the content of the message with Akismet to check if it's spam. If it is determined to be spam, the message will be blocked. %s"
+msgstr "Seleccionando esta opción, Akismet verificará el contenido del mensaje para comprobar si es spam. Si se determina que es spam, el mensaje será bloqueado. %s"
+
+#: admin/class-pirateforms-admin.php:456
+msgid "Integrate with Akismet?"
+msgstr "¿Deseas integrar tu sitio con Akismet?"
+
+#: admin/class-pirateforms-admin.php:269
+msgid "To use this option, please ensure Akismet is activated with a valid key."
+msgstr "Para utilizar esta opción, es necesario asegurarse de que Akismet está activado con una llave válida. "
+
+#: includes/class-pirateforms.php:273
+msgid "No entries found."
+msgstr "No se encontraron entradas."
+
+#: includes/class-pirateforms.php:272
+msgid "Parent Entries:"
+msgstr "Entradas principales:"
+
+#: includes/class-pirateforms.php:271
+msgid "Search Entries"
+msgstr "Buscar entradas"
+
+#: includes/class-pirateforms.php:270
+msgid "All Entries"
+msgstr "Todas las entradas"
+
+#: includes/class-pirateforms.php:269
+msgid "View Entry"
+msgstr "Ver entrada"
+
+#: includes/class-pirateforms.php:268
+msgid "Edit Entry"
+msgstr "Editar entrada"
+
+#: includes/class-pirateforms.php:266
+msgctxt "admin menu"
+msgid "Entries"
+msgstr "Entradas"
+
+#: admin/partials/settings.php:94
+msgid "Send Test Email"
+msgstr "Enviar correo electrónico de prueba"
+
+#: admin/partials/settings.php:54
+msgid "If you are using the default (non-SMTP) configuration which uses the WP/PHP mail, mails might either land in the spam/junk folders or they might get lost. So, you might not receive the email even if the status against an entry reads the mail has been sent successfully. If you face this, please contact your system administrator. If you continue to face this problem, you can switch to the SMTP configuration to ensure email deliverability."
+msgstr "Si está utilizando la configuración predeterminada (no-SMTP) que utiliza el correo WP/PHP, los correos podrían acabar en las carpetas de correo basura o perderse. Por lo tanto, es posible que no reciba el correo electrónico aunque en el estado de la entrada lea que el correo se ha enviado correctamente. Si le ocurriera esto, póngase en contacto con el administrador del sistema. Si continúa con el  problema, puede cambiar a la configuración SMTP para garantizar la entrega del correo electrónico."
+
+#: admin/class-pirateforms-admin.php:1188
+msgid "Sent email failed!"
+msgstr "¡El envio del mensaje ha fallado!"
+
+#: admin/class-pirateforms-admin.php:1188
+msgid "Sent email successfully!"
+msgstr "¡Correo electrónico enviado con éxito!"
+
+#: admin/class-pirateforms-admin.php:1096
+msgid "Mail sending failed!"
+msgstr "¡Error al enviar el correo electrónico!"
+
+#: admin/class-pirateforms-admin.php:1096
+msgid "Mail sent successfully!"
+msgstr "¡Correo electrónico enviado con éxito!"
+
+#: admin/class-pirateforms-admin.php:1096
+msgid "Status not captured"
+msgstr "Estado no capturado"
+
+#: admin/class-pirateforms-admin.php:1073
+msgid "Mail Status"
+msgstr "Estado del correo"
+
+#: admin/class-pirateforms-admin.php:495 admin/class-pirateforms-admin.php:514
+#: admin/class-pirateforms-admin.php:533 admin/class-pirateforms-admin.php:552
+#: admin/class-pirateforms-admin.php:570 admin/class-pirateforms-admin.php:587
+msgid "Display but not required"
+msgstr "Mostrado pero no obligatorio"
+
+#: admin/class-pirateforms-admin.php:438
+msgid "Success Page"
+msgstr "Página de envío correcto"
+
+#: admin/class-pirateforms-admin.php:494 admin/class-pirateforms-admin.php:513
+#: admin/class-pirateforms-admin.php:532 admin/class-pirateforms-admin.php:551
+#: admin/class-pirateforms-admin.php:569 admin/class-pirateforms-admin.php:586
+msgid "Do not display"
+msgstr "No se muestra"
+
+#: admin/class-pirateforms-admin.php:441
+msgid "Select the page that displays after a successful form submission. The page will be displayed without pausing on the email form, so please be sure to configure a relevant thank you message in this page."
+msgstr "Seleccione la página que aparecerá después de un envío exitoso del formulario de contacto. La página se mostrará sin detenerse en el formulario de contacto, así que asegúrese de configurar un mensaje de agradecimiento relevante en esta página."
+
+#: admin/class-pirateforms-admin.php:284
+msgid "Contact notification email address"
+msgstr "Dirección de correo electrónico que enviará las notificaciones de contacto"
+
+#: admin/class-pirateforms-admin.php:287
+msgid "The notification email will be sent from this address both to the recipients below and the contact form submitter (if this is activated below in email confirmation, in which case the domain for this email address should match your site's domain)."
+msgstr "El correo electrónico de notificación se enviará desde esta dirección tanto a los destinatarios como al remitente del formulario de contacto (si se activa a continuación en la confirmación del correo electrónico, en cuyo caso el dominio de esta dirección de correo electrónico debería coincidir con el dominio de su sitio)."
+
+#: admin/class-pirateforms-admin.php:561
+#: public/class-pirateforms-public.php:1074
+msgid "Attachment"
+msgstr "Adjunto"
+
+#: admin/class-pirateforms-admin.php:814
+msgid "Please add an attachment"
+msgstr "Por favor, adjunte un archivo"
+
+#: public/class-pirateforms-public.php:454
+msgid "Submit"
+msgstr "Archivo adjunto"
+
+#: admin/class-pirateforms-admin.php:335 admin/class-pirateforms-admin.php:355
+#: admin/class-pirateforms-admin.php:375 admin/class-pirateforms-admin.php:413
+#: admin/class-pirateforms-admin.php:432 admin/class-pirateforms-admin.php:469
+#: admin/class-pirateforms-admin.php:875 admin/class-pirateforms-admin.php:918
+msgid "Yes"
+msgstr "Si"
+
+#: admin/class-pirateforms-admin.php:812
+msgid "Attachment is missing"
+msgstr "Falta archivo adjunto"
+
+#: admin/class-pirateforms-admin.php:939
+msgid "TLS"
+msgstr "TLS"
+
+#: admin/class-pirateforms-admin.php:938
+msgid "SSL"
+msgstr "SSL"
+
+#: admin/class-pirateforms-admin.php:605 admin/class-pirateforms-admin.php:937
+msgid "No"
+msgstr "No"
+
+#: admin/class-pirateforms-admin.php:924
+msgid "Security?"
+msgstr "¿Seguridad?"
+
+#: public/class-pirateforms-public.php:1127
+msgid "There was an unknown error uploading the file %s"
+msgstr "Ocurrió un error desconocido al cargar el archivo %s"
+
+#: public/class-pirateforms-public.php:1059
+msgid "Uploaded file is too large %s"
+msgstr "El archivo subido es demasiado grande %s"
+
+#: admin/class-pirateforms-admin.php:384
+msgid "Adding text here will send an email to the form submitter. The email uses the \"Successful form submission text\" field from the \"Alert Messages\" tab as the subject line. Plain text only here, no HTML."
+msgstr "Si añade texto aquí, se enviará un correo electrónico al remitente del formulario. El correo electrónico utiliza el campo \"Texto de envío de formulario con éxito\" de la pestaña \"Mensajes de alerta\" como la línea de asunto. Añada solo texto, sin HTML."
+
+#: admin/class-pirateforms-admin.php:365
+msgid "Should the form use a WordPress nonce? This helps reduce spam by ensuring that the form submittor is on the site when submitting the form rather than submitting remotely. This could, however, cause problems with sites using a page caching plugin. Turn this off if you are getting complaints about forms not being able to be submitted with an error of \"Nonce failed!\""
+msgstr "¿Debe el formulario usar un nonce de WordPress? Esto ayuda a reducir el spam,  asegurándose de que el remitente de formularios esté en el sitio al enviar el formulario en lugar de enviarlo de forma remota. Esto podría, sin embargo, causar problemas con sitios que utilizan un plugin de caché de página. Apague esto si usted está recibiendo quejas de formularios que no pueden ser correctamente enviados a causa de un error \"Nonce falló!\""
+
+#: admin/class-pirateforms-admin.php:362
+msgid "Add a nonce to the contact form"
+msgstr "Añadir un nonce al formulario de contacto"
+
+#: admin/partials/settings.php:39
+msgid "Add a "
+msgstr "Añadir un"
+
+#: admin/class-pirateforms-admin.php:856
+msgid "SMTP Options"
+msgstr "Opciones SMTP"
+
+#: admin/class-pirateforms-admin.php:753 admin/partials/settings.php:20
+msgid "Alert Messages"
+msgstr "Mensajes de alerta"
+
+#: admin/class-pirateforms-admin.php:645 admin/partials/settings.php:17
+msgid "Fields Labels"
+msgstr "Etiquetas de Campos"
+
+#: admin/class-pirateforms-admin.php:477 admin/partials/settings.php:14
+msgid "Fields Settings"
+msgstr "Configurar Campos"
+
+#. Plugin Name of the plugin
+msgid "Free & Simple Contact Form Plugin - Pirateforms"
+msgstr "Free & Simple Contact Form Plugin - Pirateforms"
+
+#: public/class-pirateforms-public.php:622
+#: public/class-pirateforms-public.php:625
+#: includes/class-pirateforms-util.php:274
+#: includes/class-pirateforms-util.php:329
+msgid "Sent from page"
+msgstr "Enviado desde la página"
+
+#: public/class-pirateforms-public.php:604
+#: public/class-pirateforms-public.php:608
+#: includes/class-pirateforms-util.php:272
+msgid "IP search"
+msgstr "Búsqueda de IP"
+
+#: public/class-pirateforms-public.php:603
+#: public/class-pirateforms-public.php:607
+#: includes/class-pirateforms-util.php:269
+#: includes/class-pirateforms-util.php:323
+msgid "IP address"
+msgstr "Dirección IP"
+
+#: admin/class-pirateforms-admin.php:287
+msgid "Insert [email] to use the contact form submitter's email."
+msgstr "Insertar [email] para usar el email del emisor del formulario."
+
+#. Description of the plugin
+msgid "Easily creates a nice looking, simple contact form on your WP site."
+msgstr "Fácilmente crea un hermoso y simple formulario de contacto en tu sitio de WP."
+
+#. Plugin URI of the plugin
+msgid "http://themeisle.com/plugins/pirate-forms/"
+msgstr "http://themeisle.com/plugins/pirate-forms/"
+
+#: admin/class-pirateforms-admin.php:98 admin/class-pirateforms-admin.php:128
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/class-pirateforms.php:278
+msgid "Entries from Pirate Forms"
+msgstr "Entradas de Pirate Forms"
+
+#: includes/class-pirateforms.php:274
+msgid "No entries found in Trash."
+msgstr "No se han encontrado entradas en la papelera."
+
+#: includes/class-pirateforms.php:267
+msgctxt "add new on admin bar"
+msgid "Entry"
+msgstr "Entrada"
+
+#: includes/class-pirateforms.php:265
+msgctxt "post type singular name"
+msgid "Entry"
+msgstr "Entrada"
+
+#: includes/class-pirateforms.php:264
+msgctxt "post type general name"
+msgid "Entries"
+msgstr "Entradas"
+
+#: includes/class-pirateforms-util.php:161
+msgid "Form submission blocked!"
+msgstr "¡Envío de formulario bloqueado!"
+
+#: public/class-pirateforms-public.php:588
+msgid "Please enter one or more Contact submission recipients"
+msgstr "Por favor, introduzca uno o más destinatarios del envío"
+
+#: public/class-pirateforms-public.php:576
+#: includes/class-pirateforms-util.php:248
+msgid "Contact form submission from %s"
+msgstr "Formulario de contacto enviado desde %s"
+
+#: public/class-pirateforms-public.php:563
+msgid "Form submission failed!"
+msgstr "¡Falló el envío del formulario!"
+
+#: public/class-pirateforms-public.php:555
+msgid "Nonce failed!"
+msgstr "¡Falló nonce!"
+
+#: includes/class-pirateforms-widget.php:116
+msgid "Subtext:"
+msgstr "Subtítulo:"
+
+#: includes/class-pirateforms-widget.php:110
+msgid "Title:"
+msgstr "Título:"
+
+#: includes/class-pirateforms-widget.php:106
+msgid "Text above form"
+msgstr "Texto arriba del formulario"
+
+#: includes/class-pirateforms-widget.php:105
+msgid "Title"
+msgstr "Título"
+
+#: admin/partials/settings.php:85
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: admin/partials/settings.php:47
+msgid " in the theme's files."
+msgstr "en los archivos del tema."
+
+#: admin/partials/settings.php:40
+msgid "widget"
+msgstr "widget"
+
+#: admin/partials/settings.php:43
+msgid " in any page or post."
+msgstr "en cualquier página o post."
+
+#: admin/partials/settings.php:42 admin/partials/settings.php:45
+msgid "Use the shortcode "
+msgstr "1. Usa el atajo "
+
+#: admin/partials/settings.php:37
+msgid "There are 3 ways of using the newly created form:"
+msgstr "Hay 3 formas de usar el nuevo formulario creado:"
+
+#: admin/partials/settings.php:32
+msgid "you need, hit save and start using the created form."
+msgstr "que necesitas, toca guardar y comienza a usar el formulario creado."
+
+#: admin/partials/settings.php:32
+msgid "configure all the options "
+msgstr "configura todas las opciones "
+
+#: admin/partials/settings.php:31
+msgid "To get started, just "
+msgstr "Para comenzar, solo "
+
+#: admin/partials/settings.php:30
+msgid "Welcome to Pirate Forms!"
+msgstr "¡Bienvenido a Pirate Forms!"
+
+#: admin/partials/settings.php:23
+msgid "SMTP"
+msgstr "SMTP"
+
+#: admin/partials/settings.php:11
+msgid "Options"
+msgstr "Opciones"
+
+#: admin/partials/settings.php:8
+msgid "How to use"
+msgstr "Cómo usar"
+
+#: admin/partials/settings.php:3 includes/class-pirateforms-widget.php:16
+#: includes/class-pirateforms-widget.php:19
+msgid "Pirate Forms"
+msgstr "Pirate Forms"
+
+#: admin/class-pirateforms-admin.php:958
+msgid "SMTP Password"
+msgstr "Contraseña SMTP"
+
+#: admin/class-pirateforms-admin.php:946
+msgid "SMTP Username"
+msgstr "Nombre de usuario SMTP"
+
+#: admin/class-pirateforms-admin.php:908 admin/class-pirateforms-admin.php:927
+msgid "If you check this box, make sure the SMTP Username and SMTP Password are completed."
+msgstr "Si selecciona esta casilla, asegúrese de completar el nombre de usuario SMTP y la contraseña SMTP."
+
+#: admin/class-pirateforms-admin.php:905
+msgid "Use SMTP Authentication?"
+msgstr "¿Usar autenticación SMTP?"
+
+#: admin/class-pirateforms-admin.php:893
+msgid "SMTP Port"
+msgstr "Puerto SMTP"
+
+#: admin/class-pirateforms-admin.php:881
+msgid "SMTP Host"
+msgstr "Servidor de SMTP"
+
+#: admin/class-pirateforms-admin.php:866
+msgid "Instead of PHP mail function"
+msgstr "En lugar de la función PHP mail"
+
+#: admin/class-pirateforms-admin.php:863
+msgid "Use SMTP to send emails?"
+msgstr "¿Usar SMTP para enviar los mensajes?"
+
+#: admin/class-pirateforms-admin.php:845
+msgid "Thanks, your email was sent successfully!"
+msgstr "¡Gracias, su mensaje fue enviado con éxito!"
+
+#: admin/class-pirateforms-admin.php:841
+msgid "This text is used on the page if no Success Page is chosen above. This is also used as the confirmation email title, if one is set to send out."
+msgstr "Este texto aparecerá en la página del formulario cuando no se haya asignado una URL distinta para el mensaje de agradecimiento. También se utilizará como título del mensaje de confirmación, si ha establecido que se envíe."
+
+#: admin/class-pirateforms-admin.php:838
+msgid "Successful form submission text"
+msgstr "Envío del formulario con éxito"
+
+#: admin/class-pirateforms-admin.php:801
+msgid "Enter your question or comment"
+msgstr "Escriba su pregunta o comentario"
+
+#: admin/class-pirateforms-admin.php:799
+msgid "Question/comment is missing"
+msgstr "Falta la pregunta/comentario"
+
+#: admin/class-pirateforms-admin.php:788
+msgid "Please enter a subject"
+msgstr "Por favor, escriba un asunto"
+
+#: admin/class-pirateforms-admin.php:786
+msgid "Subject required and missing"
+msgstr "Falta el asunto y es obligatorio"
+
+#: admin/class-pirateforms-admin.php:775
+msgid "Enter valid email"
+msgstr "Escriba una dirección de correo electrónico válida"
+
+#: admin/class-pirateforms-admin.php:773
+msgid "E-mail required and missing"
+msgstr "Falta el correo electrónico y es obligatorio"
+
+#: admin/class-pirateforms-admin.php:762
+msgid "Enter your name"
+msgstr "Escriba su nombre"
+
+#: admin/class-pirateforms-admin.php:760
+msgid "Name required and missing"
+msgstr "Falta el nombre y es obligatorio"
+
+#: admin/class-pirateforms-admin.php:704
+msgid "Submit button"
+msgstr "Botón \"Enviar\""
+
+#: admin/class-pirateforms-admin.php:693
+msgid "Your message"
+msgstr "Mensaje"
+
+#: admin/class-pirateforms-admin.php:667
+msgid "Your Email"
+msgstr "Correo electrónico"
+
+#: admin/class-pirateforms-admin.php:665
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: admin/class-pirateforms-admin.php:654
+msgid "Your Name"
+msgstr "Nombre"
+
+#: admin/class-pirateforms-admin.php:633
+msgid "Secret key"
+msgstr "Clave secreta"
+
+#: admin/class-pirateforms-admin.php:618
+msgid "to get the Site key and the Secret key for the reCaptcha."
+msgstr "para obtener la clave del sitio y la clave secreta para el reCaptcha."
+
+#: admin/class-pirateforms-admin.php:618
+msgid "Create an account here "
+msgstr "Crear una cuenta aquí "
+
+#: admin/class-pirateforms-admin.php:615
+msgid "Site key"
+msgstr "Clave del sitio"
+
+#: admin/class-pirateforms-admin.php:542 admin/class-pirateforms-admin.php:691
+msgid "Message"
+msgstr "Mensaje"
+
+#: admin/class-pirateforms-admin.php:523 admin/class-pirateforms-admin.php:678
+#: admin/class-pirateforms-admin.php:680
+msgid "Subject"
+msgstr "Asunto"
+
+#: admin/class-pirateforms-admin.php:504
+msgid "Email address"
+msgstr "Dirección de correo electrónico"
+
+#: admin/class-pirateforms-admin.php:496 admin/class-pirateforms-admin.php:515
+#: admin/class-pirateforms-admin.php:534 admin/class-pirateforms-admin.php:553
+#: admin/class-pirateforms-admin.php:571 admin/class-pirateforms-admin.php:588
+msgid "Required"
+msgstr "Obligatorio"
+
+#: includes/class-pirateforms-util.php:177
+msgid "None"
+msgstr "No"
+
+#: admin/class-pirateforms-admin.php:485 admin/class-pirateforms-admin.php:652
+msgid "Name"
+msgstr "Nombre"
+
+#: admin/class-pirateforms-admin.php:381
+msgid "Send email confirmation to form submitter"
+msgstr "Enviar un mensaje de confirmación al remitente del formulario"
+
+#: admin/class-pirateforms-admin.php:325
+msgid "Should the submissions be stored in the admin area? If chosen, contact form submissions will be saved under \"All Entries\" on the left (appears after this option is activated)."
+msgstr ""
+"¿Deberían almacenarse los envíos en el área de administración? Si se selecciona, los envíos de formularios de contacto se guardarán a la izquierda en \"Todas las entradas\"\n"
+" (aparecerá después de activada esta opción)."
+
+#: admin/class-pirateforms-admin.php:322
+msgid "Store submissions in the database"
+msgstr "Guardar los envíos en la base de datos"
+
+#: admin/class-pirateforms-admin.php:306
+msgid "Email address(es) to receive contact submission notifications. You can separate multiple emails with a comma."
+msgstr "La o las direcciones de correo electrónico para recibir notificaciones de envío. Puede separar múltiples direcciones con una coma."
+
+#: admin/class-pirateforms-admin.php:303
+msgid "Contact submission recipients"
+msgstr "Destinatarios del envío"
+
+#: admin/class-pirateforms-admin.php:277
+msgid "Form processing options"
+msgstr "Opciones de procesamiento del formulario"
+
+#: admin/class-pirateforms-admin.php:209 admin/class-pirateforms-admin.php:223
+msgid "Send Message"
+msgstr "Enviar mensaje"
+
+#: public/class-pirateforms-public.php:1496
+#: public/partials/pirateforms-form.php:45
+msgid "Sorry, an error occured."
+msgstr "Disculpe, ha ocurrido un error."
