@@ -1,0 +1,10 @@
+notas: 
+el nombre de la base de datos que se debe crear debe llamarse:
+
+wordpress
+
+pasos:
+entrar en la base de datos "wordpress" luego de crearla,
+ir al item del menú que se llama importar
+luego, buscar el archivo wordpress.sql y
+luego darle al boton go que se encuentra del lado derecho
